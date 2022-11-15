@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 12 problem sets in both LaTex and PDF.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a full set of lecture notes, some lecture slides,
+  and some worksheets.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Worksheets

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Dr. Sutherland shared his insights from teaching 18.783
+  in person.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
